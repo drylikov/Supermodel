@@ -1,0 +1,27 @@
+
+{
+	"name": "Supermodel",
+	"description": "A model/collection library for node and browser",
+	"version": "0.0.1",
+	"homepage": "https://github.com/drylikov/Supermodel",
+	"author": "Denis Rylikov <@drylikov> (denis.rylikov@protonmail.com)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/drylikov/Supermodel.git"
+	},
+	"dependencies": {
+    "aug": "*"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"chai": "*",
+    "clientside": "*",
+		"markx": "*"
+	},
+	"keywords": [],
+  "clientside": {
+    "name": "SuperModel",
+    "settings": {
+    }
+  }
+}
